@@ -1,7 +1,6 @@
 # Noel_Biju source reference
 
-
-Source reviewed: [`d63cf84997b1`](https://github.com/noel-ult/Noel_Biju/commit/d63cf84997b152c3e82e0af751a97efd79fab8ef).
+Source reviewed: [`3b95cfa64b96`](https://github.com/noel-ult/Noel_Biju/commit/3b95cfa64b9685b34b5493eb9d5456d49ef6e6d7).
 
 This reference records the checked-in source, scripts, configuration names, and route declarations. It is a navigation aid; service availability and successful test execution require separate verification.
 
@@ -56,7 +55,10 @@ Paths are **as declared in each source file**. Router/blueprint mount prefixes f
 
 Historical plans/reports describe their own revision; use current source when they disagree.
 
+- [CONTRIBUTING.md](../CONTRIBUTING.md)
+- [README.md](../README.md)
 - [TEST_RESULTS.md](../TEST_RESULTS.md)
+- [docs/REFERENCE.md](../docs/REFERENCE.md)
 - [frontend/public/robots.txt](../frontend/public/robots.txt)
 
 ## Source and configuration map
